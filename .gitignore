@@ -1,0 +1,4 @@
+*.sage.py
+Espresso.exe
+**/__pycache__/*
+*.egg-info/
