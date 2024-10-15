@@ -1,5 +1,7 @@
 # Gröbner Bases for Boolean Function Minimization
 
+[![DOI](https://zenodo.org/badge/865962889.svg)](https://doi.org/10.5281/zenodo.13935108)
+
 This is the corresponding tool for the journal paper "Gröbner Bases for Boolean Function Minimization" (currently under submission).
 
 ## Installation
